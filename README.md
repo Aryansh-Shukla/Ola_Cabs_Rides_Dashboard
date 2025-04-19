@@ -97,7 +97,7 @@ Each metric is dynamically updated using filters, offering a quick glance at pla
 > Below are example screenshots of different report pages:
 
 - **Overall Summary**  
-  ![Overall Page]![Screenshot 2025-04-18 023842](https://github.com/user-attachments/assets/3cef0d0e-3a58-4ac7-92b0-3765945e2946)
+  ![Screenshot 2025-04-18 023842](https://github.com/user-attachments/assets/3cef0d0e-3a58-4ac7-92b0-3765945e2946)
 
 
 - **Vehicle Type Analysis**  
